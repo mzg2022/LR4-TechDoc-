@@ -104,6 +104,9 @@ Pydoc и Javadoc являются мощными инструментами дл
 В будущем можно рассмотреть использование дополнительных инструментов для статического анализа кода и улучшения процесса документирования.
 ### ссылки:
 https://mzg2022.github.io/LR4-TechDoc-Py/ - pydoc документация
+
 https://mzg2022.github.io/LR4-TechDoc-JS/Calculator.html - javadoc документация
+
 https://github.com/mzg2022/LR4-TechDoc-JS - Репозиторий javadoc
+
 https://github.com/mzg2022/LR4-TechDoc-Py - Репозиторий pydoc
